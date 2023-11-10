@@ -3,5 +3,7 @@ Luka: 0
 
 
 o x o
-x x .
-. o x
+x x o
+o o x
+
+Neriješeno!
