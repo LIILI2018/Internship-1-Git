@@ -4,4 +4,4 @@ Luka: 0
 
 . . o
 . o x
-. . x
+x . x
