@@ -2,7 +2,6 @@ Barbara: 0
 Luka: 0
 
 
-. x o
+o x o
 . x .
 . o x
-
